@@ -1,6 +1,6 @@
 ![BANNER](/img/benner.png)
 
-# 🏠 HOME ASSISTANT with Two Zigbee Networks via Zigbee2MQTT
+# 🏠 HOME ASSISTANT with Two Zigbee Networks via Zigbee2MQTT 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?color=ff00d8)](https://opensource.org/licenses/MIT)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Bacard1/HASS-2-Zigbee-Network.svg?color=ff00d8)
